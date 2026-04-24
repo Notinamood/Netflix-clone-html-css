@@ -14,7 +14,6 @@ The project recreates a simplified streaming platform layout, including a hero s
 * Navigation bar with menu items
 * Hero section with title and action buttons
 * Content sections (Popular & Trending)
-* Horizontal scrolling layout
 * Hover effects for interactive feel
 * Consistent dark theme
 
